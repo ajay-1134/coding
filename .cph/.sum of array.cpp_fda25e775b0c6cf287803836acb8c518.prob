@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: sum of array","srcPath":"c:\\Users\\ajays\\Documents\\coding\\sum of array.cpp","tests":[{"id":1599488011177,"input":"5\n5 4 1 9 3","output":"22"},{"id":1599488179765,"input":"6\n1 2 3 4 5 6","output":"21"}],"timeLimit":3000,"url":"c:\\Users\\ajays\\Documents\\coding\\sum of array.cpp"}

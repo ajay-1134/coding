@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: array_combination","srcPath":"c:\\Users\\ajays\\Documents\\coding\\array_combination.cpp","tests":[{"id":1599569993652,"input":"5\n10 5 6 7 5\n1 4 6 8 3","output":""}],"timeLimit":3000,"url":"c:\\Users\\ajays\\Documents\\coding\\array_combination.cpp"}

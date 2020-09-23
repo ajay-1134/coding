@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: calculator","srcPath":"c:\\Users\\ajays\\Documents\\coding\\calculator.cpp","tests":[{"id":1599313365325,"input":"589\n256\n/","output":"2"},{"id":1599315563865,"input":"","output":""}],"timeLimit":3000,"url":"c:\\Users\\ajays\\Documents\\coding\\calculator.cpp"}

@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: min_element_array","srcPath":"c:\\Users\\ajays\\Documents\\coding\\min_element_array.cpp","tests":[{"id":1599485327559,"input":"9\n5 1 9 4 63 34 95 0 9","output":"0"}],"timeLimit":3000,"url":"c:\\Users\\ajays\\Documents\\coding\\min_element_array.cpp"}
