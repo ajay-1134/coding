@@ -1,0 +1,1 @@
+{"name":"Local: check1","url":"c:\\Users\\ajays\\Desktop\\coding\\check1.c","tests":[{"id":1611389392192,"input":"3\na???cb\na??bbc\na?b?c","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\ajays\\Desktop\\coding\\check1.c","group":"local","local":true}
