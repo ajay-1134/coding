@@ -4,8 +4,5 @@ using namespace std;
 signed main(){
     int a,b,c;
     cin>>a>>b>>c;
-    if(a==b || b == c || c == a){
-        cout<<"YES"<<endl;
-    }
-    else cout<<"NO"<<endl;
+    cout<<21 - (a+b+c)<<endl;
 }

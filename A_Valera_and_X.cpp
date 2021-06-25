@@ -10,24 +10,15 @@ signed main(){
             cin>>mat[i][j];
         }
     }
-    int flag =0;
+    int flag = 0;
+    char ch = mat[0][0];
+    char ch1 = mat[0][1];
+    if(ch == ch1) flag = 1;
     for(int i=0; i<n; i++){
+        if(mat[i][i] != ch || mat[i][n-i-1] !=ch) flag=1;
         for(int j=0; j<n; j++){
-            int cnt = 0;
-            if(mat[i+1][j] == 'o'){
-                cnt++;
-            }
-            if(mat[i-1][j] == 'o'){
-                cnt++;
-            }
-            if(mat[i][j+1] == 'o'){
-                cnt++;
-            }
-            if(mat[i][j-1] == 'o'){
-                cnt++;
-            }
-            if(cnt %2 != 0){
-                flag =1;
+            if(j != i && j!= (n-i-1) && mat[i][j] != ch1){
+                flag=1;
             }
         }
     }

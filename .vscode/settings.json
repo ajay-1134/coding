@@ -4,6 +4,8 @@
         "random": "cpp",
         "string_view": "cpp",
         "regex": "cpp",
-        "ostream": "cpp"
-    }
+        "ostream": "cpp",
+        "CHECK1.C": "cpp"
+    },
+    "cmake.configureOnOpen": false
 }
